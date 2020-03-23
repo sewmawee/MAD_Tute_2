@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="textView">Number 1</string>
+    <string name="textView2">Number 2</string>
+    <string name="e1">Number 1</string>
+    <string name="e2">Number 2</string>
+    <string name="btn1">OK</string>
+    <string name="btn2">+</string>
+    <string name="btn3">-</string>
+    <string name="btn4">*</string>
+    <string name="btn5">/</string>
+    <string name="e4">Number 2</string>
+    <string name="name" />
+    <string name="button">Start Calculator</string>
+</resources>
